@@ -15,7 +15,7 @@ font-family: "lato", sans-serif;
     width: 360px;
     margin: auto;
     background: #f7f7f7;
-    /* box-shadow: 5px 5px 5px var(--tertiary-color); */
+    box-shadow: 5px 5px 5px var(--tertiary-color);
     border-radius: 20px;
 }
 
