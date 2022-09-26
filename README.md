@@ -1,10 +1,10 @@
-# Projeto Start
+# Tip Calculator - Projeto Start na Carreira de Programação
 
 ![preview](./.github/preview.jpg)
 
-> Tips Calculator
+> Tip Calculator
 
-Primeiro projeto desenvolvido na trilha Start na Carreira de Programação da OneBitCode.
+Primeiro projeto desenvolvido durante a trilha Start na Carreira de Programação da OneBitCode.
 
 
 [Clique aqui para acessar](https://mattdiniz.github.io/tip-calculator)
@@ -25,4 +25,5 @@ Primeiro projeto desenvolvido na trilha Start na Carreira de Programação da On
 
 ## Contato
 
-mattdiniz777@gmail.com
+- mattdiniz777@gmail.com
+- (19) 99277-5362
