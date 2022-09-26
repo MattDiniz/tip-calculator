@@ -5,7 +5,7 @@ function calculateTip(event) {
     let numOfPeople = document.getElementById('people').value;
 
     if(bill == '' | serviceQual == 0){
-        alert('Por favor, preencha os valores')
+        alert('Por favor, diga qual foi a qualidade do serviço.')
         return;
     }
 
